@@ -1,4 +1,4 @@
-# Proyecto: Reloj en Java
+# Proyecto: Listas Ligadas en Java
 
 ## AUTOR:  Torres Cuevas Gael Patricio. No de Cuenta. 318266114
 
