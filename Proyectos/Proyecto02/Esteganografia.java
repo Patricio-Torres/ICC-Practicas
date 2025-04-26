@@ -1,7 +1,7 @@
 package Proyecto2;
 import java.util.Scanner;
 
-public class Esteganografria {
+public class Esteganografia {
     
     public String descifraNulo(String original, int n) {
         String mensaje = "";

@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Esteganografria e = new Esteganografria();
+        Esteganografia e = new Esteganografia();
         Scanner sc = new Scanner(System.in);
 
         while (true) {
